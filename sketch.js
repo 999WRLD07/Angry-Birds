@@ -9,7 +9,7 @@ var bgimg;
 function preload()
 {
 
-bgimg = loadImage ("sprites/bg.png");
+bgimg = loadImage ("sprites/bg1.jpg");
 
 }
 
